@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://cozinhasemrestricao.netlify.app
 disableKinds:
   - section
   - taxonomy
