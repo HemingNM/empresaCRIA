@@ -1,2 +1,12 @@
-# An optional custom script to run before Hugo builds your site.
-# You can delete it if you do not need it.
+# Custom script to run for Hugo to build the website.
+
+# https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown
+library(blogdown)
+
+blogdown::install_hugo(force = TRUE)
+
+blogdown::serve_site()
+blogdown::stop_server()
+
+# https://happygitwithr.com/existing-github-last
+usethis::use_github()
