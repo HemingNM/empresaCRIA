@@ -1,0 +1,27 @@
+baseURL: https://example.com
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+defaultContentLanguage: en
+theme: hugo-scroll
+title: Cozinha sem restrições
+params:
+  contact:
+    email: jfnrcria@gmail.com
+    phone: +55 62 9666 8749
+  copyright: ©JFNR
+  description: Receitas que dão liberdade de escolha para sua saúde alimentar
+  favicon: images/favicon.png
+  footer:
+    showContactIcons: no
+    showFooterLinks: no
+  hidedesignbyline: no
+  images: images/cover-image.jpg
+  invertSectionColors: no
+  meta:
+    keywords: celíaco, intolerância, restrição alimentar, alergia, zero glúten, zero lactose, saudável
+  title: Cozinha sem restrições
+  title_guard: no
