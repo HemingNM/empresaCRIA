@@ -10,7 +10,9 @@ header_menu: true
 
 Embarque em uma jornada deliciosa, onde cada página revela segredos irresistíveis e pratos que transformam a culinária sem glúten em uma celebração diária.
 
-[Adquira agora](páginaHotmart) nosso livro de receitas sem glúten e descubra o prazer de saborear a liberdade!
+[Adquira agora](https://sun.eduzz.com/2t5yssom) nosso livro de receitas sem glúten e descubra o prazer de saborear a liberdade!
+
+![Compre agora)](../images/botao-comprar.png)
 
 ---
 
