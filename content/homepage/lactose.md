@@ -11,7 +11,8 @@ header_menu: true
 
 Liberte seu paladar com nosso livro de receitas sem lactose. Descubra o prazer de cozinhar e saborear cada refeição, enquanto desfruta de deliciosas opções sem lactose que elevam sua experiência gastronômica. 
 
-[Invista agora](páginaHotmart) e transforme a maneira como você aprecia cada mordida!
+#### Disponível em breve!
+[Invista](páginaHotmart) e transforme a maneira como você aprecia cada mordida!
 
 ---
 
