@@ -14,4 +14,4 @@ As receitas sem glúten emergem como uma resposta vibrante e saborosa para aquel
 ---
 [Adquira agora](https://sun.eduzz.com/2t5yssom) nosso livro de receitas sem glúten e descubra o prazer de saborear a liberdade!
 
-![Compre agora)](../images/botao-comprar.png)
+[![Compre agora](../images/botao-comprar.png)](https://sun.eduzz.com/2t5yssom)
