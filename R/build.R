@@ -5,7 +5,7 @@
 
 # blogdown::install_hugo(force = TRUE)
 
-blogdown::build_site()
+# blogdown::build_site()
 
 # https://happygitwithr.com/existing-github-last
 # usethis::use_github()

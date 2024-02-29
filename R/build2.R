@@ -3,3 +3,8 @@
 
 # blogdown::serve_site()
 # blogdown::stop_server()
+
+# How To Make A Personal Website with Hugo
+# also add google analytics
+## https://matteocourthoud.github.io/post/website/
+

@@ -12,5 +12,6 @@ As receitas sem lactose representam uma celebração de sabores sem comprometer 
 ![Let us get started on a clean slate](../images/quiche-2468840_1280.jpg)
 
 ---
-#### Disponível em breve!
-[Compre](páginaHotmart) nosso livro de receitas!
+[Invista](https://chk.eduzz.com/2287638) e transforme a maneira como você aprecia cada mordida!
+
+[![Compre](../images/botao-comprar.png)](https://chk.eduzz.com/2287638)
