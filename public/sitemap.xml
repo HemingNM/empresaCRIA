@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cozinhasemrestricao.netlify.app/gluten/</loc>
+    <loc>https://natebooks.com/ecoinova/pancs/</loc>
   </url><url>
-    <loc>https://cozinhasemrestricao.netlify.app/lactose/</loc>
+    <loc>https://natebooks.com/gluten/</loc>
   </url><url>
-    <loc>https://cozinhasemrestricao.netlify.app/</loc>
+    <loc>https://natebooks.com/lactose/</loc>
+  </url><url>
+    <loc>https://natebooks.com/vegetariano/</loc>
+  </url><url>
+    <loc>https://natebooks.com/ecoinova/partes/</loc>
+  </url><url>
+    <loc>https://natebooks.com/ecoinova/desperdicio/</loc>
+  </url><url>
+    <loc>https://natebooks.com/ecoinova/cultivo/</loc>
+  </url><url>
+    <loc>https://natebooks.com/ecoinova/</loc>
+  </url><url>
+    <loc>https://natebooks.com/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://cozinhasemrestricao.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://natebooks.com/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
 </urlset>
