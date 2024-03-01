@@ -1,5 +1,5 @@
 ---
-title: "ECOinovações e Sustentabilidade"
+title: "Sustentabilidade"
 header_menu_title: "Sustentabilidade"
 navigation_menu_title: "Sustentabilidade"
 weight: 20
