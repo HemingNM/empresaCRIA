@@ -35,6 +35,3 @@ Aproveitar partes não convencionais de alimentos é uma excelente maneira de re
 - **Conservação:** Algumas partes não convencionais de alimentos podem ser conservadas em vinagre, açúcar ou sal para prolongar sua vida útil e adicionar sabor a outras preparações.
 
 Aproveitar completamente os alimentos não apenas beneficia o meio ambiente, reduzindo o desperdício, mas também enriquece nossa dieta com uma maior variedade de nutrientes e sabores. É uma abordagem criativa na cozinha que incentiva a experimentação e o respeito pelos recursos que temos.
-
-### [ZERO DESPERDICIOS - Utilizando partes não convencionais dos alimentos]({{< pdf "ZERO DESPERDICIOS - partes não convencionais.pdf" >}})
-

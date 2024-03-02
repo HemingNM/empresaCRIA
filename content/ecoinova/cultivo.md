@@ -56,5 +56,3 @@ Cultivar plantas alimentícias em casa é uma prática enriquecedora e sustentá
 
 Cultivar plantas alimentícias em casa pode ser uma atividade gratificante e produtiva, oferecendo frescor e qualidade que muitas vezes não se encontra em alimentos comprados. Além disso, contribui para um estilo de vida mais sustentável e consciente.
 
-
-### [INTRUCOES DE CULTIVO DE PLANTAS EM CASA]({{< pdf "INTRUCOES DE CULTIVO DE PLANTAS EM CASA.pdf" >}})
