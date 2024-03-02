@@ -8,3 +8,5 @@
 # also add google analytics
 ## https://matteocourthoud.github.io/post/website/
 
+## embed a PDF file in a page on your Hugo website
+## git submodule add  https://github.com/anvithks/hugo-embed-pdf-shortcode.git themes/hugo-embed-pdf-shortcode

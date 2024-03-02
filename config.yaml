@@ -6,7 +6,7 @@ disableKinds:
   - RSS
   - robotsTXT
 defaultContentLanguage: en
-theme: hugo-scroll
+theme: [hugo-embed-pdf-shortcode, hugo-scroll]
 title: Cozinha sem restrições
 params:
   contact:

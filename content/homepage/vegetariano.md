@@ -2,7 +2,7 @@
 title: "Receitas vegetarianas"
 header_menu_title: "Receitas vegetarianas"
 navigation_menu_title: "Receitas vegetarianas"
-weight: 3
+weight: 5
 header_menu: true
 ---
 ---

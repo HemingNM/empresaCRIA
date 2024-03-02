@@ -2,7 +2,7 @@
 title: "Receitas sem lactose"
 header_menu_title: "Receitas sem lactose"
 navigation_menu_title: "Receitas sem lactose"
-weight: 2
+weight: 4
 header_menu: true
 ---
 ---

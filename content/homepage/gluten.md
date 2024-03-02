@@ -2,7 +2,7 @@
 title: "Receitas sem glúten"
 header_menu_title: "Receitas sem glúten"
 navigation_menu_title: "Receitas sem glúten"
-weight: 2
+weight: 3
 header_menu: true
 ---
 ---
