@@ -6,6 +6,6 @@ weight: 2
 header_menu: true
 ---
 
-{{< embed-pdf url="../pdf/ZERO GLUTEN GRATUITO.pdf" >}}
+[Zero Glúten gratuito]({{< pdf "ZERO GLUTEN GRATUITO.pdf" >}})
 
 ---

@@ -36,5 +36,5 @@ Aproveitar partes não convencionais de alimentos é uma excelente maneira de re
 
 Aproveitar completamente os alimentos não apenas beneficia o meio ambiente, reduzindo o desperdício, mas também enriquece nossa dieta com uma maior variedade de nutrientes e sabores. É uma abordagem criativa na cozinha que incentiva a experimentação e o respeito pelos recursos que temos.
 
+### [ZERO DESPERDICIOS - Utilizando partes não convencionais dos alimentos]({{< pdf "ZERO DESPERDICIOS - partes não convencionais.pdf" >}})
 
-{{< embed-pdf url="../pdf/ZERO DESPERDICIOS - partes não convencionais.pdf" >}}

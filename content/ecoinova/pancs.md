@@ -25,5 +25,5 @@ As PANCs são importantes por várias razões:
 Apesar de seu potencial, as PANCs enfrentam desafios para sua adoção mais ampla, incluindo a falta de conhecimento sobre como identificar, cultivar e preparar essas plantas. No entanto, há um crescente interesse por parte de chefs, nutricionistas, agricultores e consumidores conscientes, impulsionando uma redescoberta e valorização dessas espécies. Exemplos populares de PANCs incluem ora-pro-nóbis, taioba, dente-de-leão, caruru, entre muitas outras.
 
 
-{{< embed-pdf url="../pdf/EXPLORANDO O MUNDO DAS PANCS.pdf" >}}
+### [EXPLORANDO O MUNDO DAS PANCS]({{< pdf "EXPLORANDO O MUNDO DAS PANCS.pdf" >}})
 
