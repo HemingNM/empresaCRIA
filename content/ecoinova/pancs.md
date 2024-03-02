@@ -23,3 +23,7 @@ As PANCs são importantes por várias razões:
 5. **Cultura e Tradição:** Muitas PANCs fazem parte do patrimônio cultural de povos indígenas e comunidades locais, representando um elo com práticas alimentares e agrícolas tradicionais. A valorização e o uso dessas plantas podem contribuir para a preservação de conhecimentos culturais ancestrais.
 
 Apesar de seu potencial, as PANCs enfrentam desafios para sua adoção mais ampla, incluindo a falta de conhecimento sobre como identificar, cultivar e preparar essas plantas. No entanto, há um crescente interesse por parte de chefs, nutricionistas, agricultores e consumidores conscientes, impulsionando uma redescoberta e valorização dessas espécies. Exemplos populares de PANCs incluem ora-pro-nóbis, taioba, dente-de-leão, caruru, entre muitas outras.
+
+
+{{< embed-pdf url="../pdf/EXPLORANDO O MUNDO DAS PANCS.pdf" >}}
+
