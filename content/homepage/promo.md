@@ -1,9 +1,9 @@
 ---
-title: "Combos - Promoção"
-header_menu_title: "Promoção"
-navigation_menu_title: "Promoção"
+title: "Combos e Promoções"
+header_menu_title: "Promoções"
+navigation_menu_title: "Promoções"
 weight: 6
 header_menu: true
 ---
 
-Quer ver nossas promoções e combos? Veja nossa [página](promo) para mais detalhes.
+[Clique aqui para ver nossas promoções e combos](promo).
