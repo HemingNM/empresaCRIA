@@ -1,6 +1,6 @@
 ---
 title: "Quem somos"
-weight: 97
+weight: 96
 header_menu: false
 ---
 
